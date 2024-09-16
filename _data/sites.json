@@ -24542,4 +24542,13 @@
             "miyklas.com.ua"
         ]
     }
+    {
+        "name": "Mekorama Forum",
+        "url": "https://mekoramaforum.com/",
+        "difficulty": "hard",
+        "notes": "In order to delete your account you need to start a conversation with an Administrator and send Account deletion request"
+        "domains": [
+            "mekoramaforum.com"
+        ]
+    } 
 ]
